@@ -42,8 +42,14 @@ button {
 }
 
 /************************************************************
-						LAYOUT		
+				LAYOUT		
 ************************************************************/
+
+/*naming css layouts:
+
+give class names to outer containers, but don't name the inner ones. This allows you to group
+and individualize objects*/
+
 
 .panel > div {
 	width: 960px;
@@ -260,16 +266,3 @@ main {
 	width: 170px;	
 	height: 160px;
 }
-
-
-
-
-
-
-
-
-
-/*naming css layouts:
-
-give class names to outer containers, but don't name the inner ones. This allows you to group
-and individualize objects*/
