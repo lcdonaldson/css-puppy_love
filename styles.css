@@ -1,6 +1,7 @@
 /***************************************
 		RESETS
 ****************************************/
+
 html {
    box-sizing: border-box;
    color: #444;
@@ -138,9 +139,9 @@ and individualize objects*/
 	font-weight: 300;
 }
 
-/*************
+/********************
 primary content section
-**************/
+*********************/
 
 .primary-content {
 	background-color: #D7E1E7;
@@ -232,6 +233,7 @@ primary content section
 	margin: 0;
 	padding: 0;
 }
+
 .pup-description p {
 	font-weight: 400;
 }
