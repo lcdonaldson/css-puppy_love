@@ -1,6 +1,5 @@
-/**%&*%&%*&*%&*&%**%&*%&&*%&*%&*%&*&*%*&%%&*&*%*&%&*%%&*%&*%&*
-						RESETS
-*%&*%&%*&*%&*&%**%&*%&&*%&*%&*%&*&*%*&%%&*&*%*&%&*%%&*%&*%&**/
+/*** RESETS ***/
+
 html {
    box-sizing: border-box;
    color: #444;
@@ -14,9 +13,7 @@ html {
 }
 
 
-/**%&*%&%*&*%&*&%**%&*%&&*%&*%&*%&*&*%*&%%&*&*%*&%&*%%&*%&*%&*
-						DEFAULTS		
-*%&*%&%*&*%&*&%**%&*%&&*%&*%&*%&*&*%*&%%&*&*%*&%&*%%&*%&*%&**/
+/*** DEFAULTS ***/
 
 a {
 	text-decoration: none;
@@ -41,9 +38,7 @@ button {
 	border: none;
 }
 
-/**%&*%&%*&*%&*&%**%&*%&&*%&*%&*%&*&*%*&%%&*&*%*&%&*%%&*%&*%&*
-						LAYOUT		
-*%&*%&%*&*%&*&%**%&*%&&*%&*%&*%&*&*%*&%%&*&*%*&%&*%%&*%&*%&**/
+/*** LAYOUT ***/
 
 .panel > div {
 	width: 960px;
@@ -260,16 +255,3 @@ main {
 	width: 170px;	
 	height: 160px;
 }
-
-
-
-
-
-
-
-
-
-/*naming css layouts:
-
-give class names to outer containers, but don't name the inner ones. This allows you to group
-and individualize objects*/
