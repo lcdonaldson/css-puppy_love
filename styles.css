@@ -111,8 +111,8 @@ button {
 .welcome-header {
 	position: absolute;
 	bottom: 30px;
-	right: 0px;
-	left: 0px;
+	right: 0;
+	left: 0;
 	text-align: center;
 }
 
