@@ -189,13 +189,13 @@ button {
 }
 
 .content-box {
-	background-color: white;
-	box-shadow: 0 0 12px -5px black
+	background-color: #FFFFFF;
+	box-shadow: 0 0 12px -5px #000000
 }
 
 .directory {
-	background-color: white;
-	padding: 15px;
+	background-color: #FFFFFF;
+	padding: 0.9rem;
 	width: calc(40% - 10px);
 	min-height: 350px;
 	float: left;
