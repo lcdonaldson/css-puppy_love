@@ -2,7 +2,7 @@
 
 html {
    box-sizing: border-box;
-   color: #444;
+   color: #444444;
    font: 12pt 'Open Sans';
    font-weight: 300;
 }
@@ -31,7 +31,7 @@ h2 {
 	color: #FFFFFF;
 	font-weight: 700;
 	font-size: 32pt;
-	margin: 5;
+	margin: 5px;
 }
 
 button {
