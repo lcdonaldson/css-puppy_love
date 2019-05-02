@@ -139,20 +139,20 @@ button {
 }
 
 .breakout {
-	margin: 5px 5px 0px 5px;
+	margin: 5px 5px 0 5px;
 	display: inline-block;
 	min-height: 210px;
 	width: 300px;
 	transform: translateY(-20px);
 	position: relative;
 	background-color: #FFFFFF;
-	box-shadow: 0 0 12px -5px black;	
+	box-shadow: 0 0 12px -5px #000000;	
 }
 
 .breakout button {
 	background-color: #FFFFFF;
 	text-decoration: none;
-	border: 2px solid black;
+	border: 2px solid #000000;
 	border-radius: 5px;
 }
 
