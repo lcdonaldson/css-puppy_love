@@ -31,7 +31,7 @@ h2 {
 	color: #FFFFFF;
 	font-weight: 700;
 	font-size: 32pt;
-	margin: 5px;
+	margin: 0.3rem;
 }
 
 button {
@@ -41,7 +41,7 @@ button {
 /*** LAYOUT ***/
 
 .panel > div {
-	width: 960px;
+	width: 60rem;
 	margin: 0 auto;
 	min-height: 450px;
 	position: relative;
@@ -184,7 +184,7 @@ button {
 }
 
 .secondary {
-	height: 560px;
+	height: 35rem;
 	background-color: #D6E1E7;
 }
 
