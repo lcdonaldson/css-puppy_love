@@ -67,8 +67,8 @@ button {
 
 .search-bar {
 	position: absolute;
-	top: 5px;
-	right: 5px;	
+	top: 0.31rem;
+	right: 0.31rem;	
 }
 
 .search-bar > input {
