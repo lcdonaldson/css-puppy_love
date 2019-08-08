@@ -141,7 +141,7 @@ button {
 .breakout {
 	margin: 5px 5px 0 5px;
 	display: inline-block;
-	min-height: 210px;
+	min-height: 13.12rem;
 	width: 300px;
 	transform: translateY(-20px);
 	position: relative;
