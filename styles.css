@@ -196,7 +196,7 @@ button {
 .directory {
 	background-color: #FFFFFF;
 	padding: 0.9rem;
-	width: calc(40% - 10px);
+	width: calc(40% - .62rem);
 	min-height: 21.87rem;
 	float: left;
 }
