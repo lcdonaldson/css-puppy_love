@@ -139,7 +139,7 @@ button {
 }
 
 .breakout {
-	margin: 5px 5px 0 5px;
+	margin: 0.5rem 0.5rem 0 0.5rem;
 	display: inline-block;
 	min-height: 13.12rem;
 	width: 18.75rem;
